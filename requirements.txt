@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+streamlit_antd_components ==0.3.2
+=======
+streamlit_antd_components ==0.3.2
+>>>>>>> 9030c308749d34be99709f213e293905b07606a9
