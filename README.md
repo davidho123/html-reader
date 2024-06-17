@@ -21,5 +21,5 @@
 
 ## 三、**案例图片**
 ![img](img/全屏.png)
-![img](img/设置.png)
-![img](img/选择html文件工具.png)
+![img](img/样式设置.png)
+![img](img/选择文件.png)
